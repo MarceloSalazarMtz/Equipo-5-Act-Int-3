@@ -1,7 +1,7 @@
 # Equipo 5 Actividad Integradora 3
 ---
 ## ¿Qué hace este proyecto?
-Este proyecto se realizó utilizando la técnica de web data scrapping para recolectar imágenes de una base de datos en línea. La base de datos que se utilizó es shutterstock.com, la cual está enfocada a datos en forma de imagen. El programa solicitará una al usuario un término para buscar en la base de datos y posteriormente el número de fotos que se quieren obtener. Por último el programa almacenará las imágenes obtenidas en dos folders llamados train y test, en donde se enviaran el 80% y el 20% de la totalidad de las imágenes encontradas, respectivamente. 
+Este proyecto se realizó utilizando la técnica de web data scrapping para recolectar imágenes de una base de datos en línea. La base de datos que se utilizó es shutterstock.com, la cual está enfocada a datos en forma de imagen. El programa solicitará una al usuario un término para buscar en la base de datos y posteriormente el número de fotos que se quieren obtener. Posteriormente, el programa almacenará las imágenes obtenidas en tres folders llamados train, validation y test, en donde se enviaran el 80%, 13% y 7% de la totalidad de las imágenes encontradas, respectivamente. Dentro de los tres forlder, se crean 5 categorias llamadas 
 ## ¿Por qué es útil este proyecto?
 Este proyecto ayuda a los usuarios a entrar en contacto con el mundo de la visión por computadora por medio de algoritmos que nos solicitan términos de entrada y en base a ellos nos arrojan imágenes obtenidas de una base de datos. Por otro lado, nos ayuda a la diversificación de imágenes en distintos folders para poder obtener información de prueba e información de entrenamiento para algún modelo determinado. 
 ## ¿Cómo pueden los usuarios usar este proyecto?
